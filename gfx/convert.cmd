@@ -1,0 +1,1 @@
+kingcon title.png ..\images\banner -format=5 -interleaved -rawpalette
